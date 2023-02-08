@@ -28,7 +28,7 @@ export default function Home() {
       >
         <motion.a
           variants={FADE_DOWN_ANIMATION_VARIANTS}
-          href="https://twitter.com/steventey/status/1613928948915920896"
+          href="https://twitter.com/shylasaurus/"
           target="_blank"
           rel="noreferrer"
           className="mx-auto mb-5 flex max-w-fit items-center justify-center space-x-2 overflow-hidden rounded-full bg-blue-100 px-7 py-2 transition-colors hover:bg-blue-200"
@@ -42,15 +42,14 @@ export default function Home() {
           className="bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display text-4xl font-bold tracking-[-0.02em] text-transparent drop-shadow-sm md:text-7xl md:leading-[5rem]"
           variants={FADE_DOWN_ANIMATION_VARIANTS}
         >
-          <Balancer>Building blocks for your Next project</Balancer>
+          <Balancer>NexJS website v1 - LPM</Balancer>
         </motion.h1>
         <motion.p
           className="mt-6 text-center text-gray-500 md:text-xl"
           variants={FADE_DOWN_ANIMATION_VARIANTS}
         >
           <Balancer>
-            An opinionated collection of components, hooks, and utilities for
-            your Next.js project.
+            A general test.
           </Balancer>
         </motion.p>
         <motion.div
@@ -81,7 +80,7 @@ export default function Home() {
           </a>
           <a
             className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-5 py-2 text-sm text-gray-600 shadow-md transition-colors hover:border-gray-800"
-            href="https://github.com/steven-tey/precedent"
+            href="https://github.com/lperezmo/nextjs"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -98,7 +97,7 @@ export default function Home() {
             title={title}
             description={description}
             demo={
-              title === "Beautiful, reusable components" ? (
+              title === "Some example components" ? (
                 <ComponentGrid />
               ) : (
                 demo
