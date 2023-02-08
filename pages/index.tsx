@@ -44,14 +44,6 @@ export default function Home() {
         >
           <Balancer>NexJS website v1 - LPM</Balancer>
         </motion.h1>
-        <motion.p
-          className="mt-6 text-center text-gray-500 md:text-xl"
-          variants={FADE_DOWN_ANIMATION_VARIANTS}
-        >
-          <Balancer>
-            A general test.
-          </Balancer>
-        </motion.p>
         <motion.div
           className="mx-auto mt-6 flex items-center justify-center space-x-5"
           variants={FADE_DOWN_ANIMATION_VARIANTS}
