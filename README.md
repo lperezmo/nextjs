@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
-  <a href="#frameworks"><strong>One-click Deploy</strong></a> ·
+  <a href="#frameworks"><strong>Frameworks</strong></a> ·
+  <a href="#ui"><strong>UI</strong></a> ·
+  <a href="#hooks-and-utilities"><strong>Hooks and Utilities</strong></a>
 </p>
 
 ## Introduction
@@ -62,6 +64,6 @@ First version of NextJS version using Precendent 's collection of components, ho
 
 - [Vercel Analytics](https://vercel.com/analytics) – Track unique visitors, pageviews, and more in a privacy-friendly way
 
-### Credits
+### External credits
 
 - Built using collection of components, hooks, and utilities put together by Steven Tey ([@steventey](https://twitter.com/steventey)) (Precendent).
