@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  Building blocks for your Next project
+  Testing ground for a full-fledged website or portfolio built with NextJS.
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#frameworks"><strong>One-click Deploy</strong></a> ·
 </p>
-<br/>
 
 ## Introduction
 
