@@ -113,7 +113,7 @@ export default function Home() {
 
 const features = [
   {
-    title: "Beautiful, reusable components",
+    title: "Some example components",
     description:
       "Pre-built beautiful, a11y-first components, powered by [Tailwind CSS](https://tailwindcss.com/), [Radix UI](https://www.radix-ui.com/), and [Framer Motion](https://framer.com/motion)",
     large: true,
